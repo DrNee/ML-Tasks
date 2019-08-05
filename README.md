@@ -1,5 +1,4 @@
 # ML-Tasks
-Perception, Non-Linear Regression, Digit Recognition, Language Classification
 
 A repo for the machine learning tasks that needed to be completed for CS188 Project 5. For this project, I implemented
 
